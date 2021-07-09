@@ -1,0 +1,6 @@
+# Datasets
+Dataset/*
+*.zip
+
+#Pycharm
+.idea
